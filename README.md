@@ -1,4 +1,4 @@
-## Olá! Eu sou o Daniel Von Heldh, atuo como DevOps em Governo ee ajudo novatos no mercado de programação e tecnologia.
+## Olá! Eu sou o Daniel Von Heldh, atuo como DevOps em Governo e ajudo novatos no mercado de programação e tecnologia.
   <a href="https://github.com/CyberAnuk">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zenorocha&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zenorocha&layout=compact&langs_count=7&theme=dark"/>
